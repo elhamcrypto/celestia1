@@ -1,5 +1,5 @@
-lfg 3333
-sudo apt update && sudo apt upgrade
+lfg 34340
+udo apt upgrade
 ---------------------------------------------
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
 -------------------------------------------------
